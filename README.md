@@ -1,2 +1,2 @@
-# npm i
-# nodemon index.js (port:8080)
+npm i
+nodemon index.js
